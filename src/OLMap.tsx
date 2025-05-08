@@ -1,5 +1,5 @@
 import { useContext, useEffect, useRef } from "react"
-import { OLMapContext } from "./OlMapContext";
+import { OLMapContext } from "./OLMapContext";
 
 export default function OLMap(){
     const olMap = useContext(OLMapContext);

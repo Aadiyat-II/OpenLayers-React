@@ -1,7 +1,6 @@
 import OLMap from "./OLMap"
 
 function App() {
-  
   return (
     <>
       <OLMap/>
